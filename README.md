@@ -1,6 +1,5 @@
 #Installing
-
-    https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/
+https://www.linode.com/docs/applications/remote-desktop/install-vnc-on-ubuntu-16-04/
 
 #Unlocking
 
